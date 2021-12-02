@@ -1,0 +1,16 @@
+--2021-12-02 13:09:59--  https://fishki.net/picsw/062011/08/bonus/kotita/01.jpg
+Загружен сертификат CA «/etc/ssl/certs/ca-certificates.crt»
+Распознаётся fishki.net (fishki.net)… 88.212.236.76, 88.212.236.84, 2a05:93c2:2:999::174, ...
+Подключение к fishki.net (fishki.net)|88.212.236.76|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 301 Moved Permanently
+Адрес: https://ru.fishki.net/picsw/062011/08/bonus/kotita/01.jpg [переход]
+--2021-12-02 13:09:59--  https://ru.fishki.net/picsw/062011/08/bonus/kotita/01.jpg
+Распознаётся ru.fishki.net (ru.fishki.net)… 104.26.1.138, 172.67.73.48, 104.26.0.138, ...
+Подключение к ru.fishki.net (ru.fishki.net)|104.26.1.138|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 307 Temporary Redirect
+Адрес: https://fishki.net/404.php [переход]
+--2021-12-02 13:09:59--  https://fishki.net/404.php
+Подключение к fishki.net (fishki.net)|88.212.236.76|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 404 Not Found
+2021-12-02 13:09:59 ОШИБКА 404: Not Found.
+
