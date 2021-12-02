@@ -1,0 +1,10 @@
+
+    server {
+        listen 80;
+        root /usr/share/nging;
+        location /img/{
+            root img;
+            index index.html;
+        }
+    }
+
